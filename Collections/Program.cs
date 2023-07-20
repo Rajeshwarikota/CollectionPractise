@@ -11,6 +11,8 @@ namespace Collections
         static void Main(string[] args)
         {
             Console.WriteLine("...collections....");
+            MaximumPrice.FindindMaxPrice();
+            Console.ReadLine();
             Console.ReadLine();
         }
     }
